@@ -1,3 +1,3 @@
-﻿# Clear Solitaire
+# Clear Solitaire
 
-Public pages (privacy policy) for the Clear Solitaire app, served by GitHub Pages.
+Public pages (privacy policy) for the Solitaire: Clear & Classic app, served by GitHub Pages.
